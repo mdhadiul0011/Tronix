@@ -1,0 +1,259 @@
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+  .cart-head h3 {
+    font-size: 36px !important;
+  }
+
+  .cart-checkout {
+    width: 100% !important;
+  }
+
+  .carts::after {
+    width: 140px !important;
+    left: 185px !important;
+  }
+
+  .cart-details {
+    display: block !important;
+  }
+
+  .cart-left {
+    width: 111% !important;
+  }
+
+  .item-name-price h3 {
+    font-size: 18px !important;
+  }
+
+  .item-name-price p {
+    font-size: 16px !important;
+  }
+
+  .count {
+    gap: 10px !important;
+  }
+
+  .minus {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .numbers {
+    width: 25px !important;
+    height: 25px !important;
+    font-size: 18px !important;
+  }
+
+  .plass {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .cart-right {
+    width: 100% !important;
+  }
+
+  .coupon-code {
+    width: 100% !important;
+  }
+
+  .coupon {
+    justify-content: flex-start !important;
+  }
+
+  .accordion-button::after {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+  .cart-head h3 {
+    font-size: 36px !important;
+  }
+
+  .cart-checkout {
+    width: 70% !important;
+  }
+
+  .carts::after {
+    width: 115px !important;
+    left: 185px !important;
+  }
+
+  .cart-details {
+    display: block !important;
+  }
+
+  .cart-left {
+    width: 111% !important;
+  }
+
+  .item-name-price h3 {
+    font-size: 18px !important;
+  }
+
+  .item-name-price p {
+    font-size: 16px !important;
+  }
+
+  .count {
+    gap: 10px !important;
+  }
+
+  .minus {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .numbers {
+    width: 25px !important;
+    height: 25px !important;
+    font-size: 18px !important;
+  }
+
+  .plass {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .cart-right {
+    width: 100% !important;
+  }
+
+  .coupon-code {
+    width: 100% !important;
+  }
+
+  .coupon {
+    justify-content: flex-start !important;
+  }
+
+  .accordion-button::after {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+  .cart-head h3 {
+    font-size: 36px !important;
+  }
+
+  .cart-checkout {
+    width: 53% !important;
+  }
+
+  .carts::after {
+    width: 115px !important;
+    left: 185px !important;
+  }
+
+  .cart-details {
+    display: flex !important;
+  }
+
+  .cart-left {
+    width: 60% !important;
+  }
+
+  .item-name-price h3 {
+    font-size: 18px !important;
+  }
+
+  .item-name-price p {
+    font-size: 16px !important;
+  }
+
+  .count {
+    gap: 10px !important;
+  }
+
+  .minus {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .numbers {
+    width: 25px !important;
+    height: 25px !important;
+    font-size: 18px !important;
+  }
+
+  .plass {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .cart-right {
+    width: 40% !important;
+  }
+
+  .coupon {
+    justify-content: flex-start !important;
+  }
+
+  .accordion-button::after {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1399.98px) {
+  .cart-head h3 {
+    font-size: 36px !important;
+  }
+
+  .cart-checkout {
+    width: 44% !important;
+  }
+
+  .carts::after {
+    width: 115px !important;
+    left: 185px !important;
+  }
+
+  .cart-details {
+    display: flex !important;
+  }
+
+  .cart-left {
+    width: 60% !important;
+  }
+
+  .item-name-price h3 {
+    font-size: 18px !important;
+  }
+
+  .item-name-price p {
+    font-size: 16px !important;
+  }
+
+  .count {
+    gap: 10px !important;
+  }
+
+  .minus {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .numbers {
+    width: 25px !important;
+    height: 25px !important;
+    font-size: 18px !important;
+  }
+
+  .plass {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .cart-right {
+    width: 40% !important;
+  }
+
+  .coupon {
+    justify-content: flex-start !important;
+  }
+
+  .accordion-button::after {
+    display: none;
+  }
+}

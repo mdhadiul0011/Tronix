@@ -1,0 +1,128 @@
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .my_accounts{
+        display: block !important;
+    }
+
+    .account_left {
+        width: 100%;
+        border-right: none;
+        border-bottom: 2px solid var(--border-color);
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+    }
+
+    .account_text h3 {
+        font-size: 32px;
+    }
+
+    .account_text ul {
+        margin-top: 28px;
+    }
+
+    .account_right {
+        width: 100%;
+    }
+    
+    .account_detls h3{
+        font-size: 32px;
+    }
+    
+    .form_part {
+        margin-top: 28px;
+    }
+
+    .accnt_form {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+
+    .account_left {
+        width: 40%;
+    }
+
+    .account_text h3 {
+        font-size: 32px;
+    }
+
+    .account_text ul {
+        margin-top: 28px;
+    }
+    
+    .account_detls h3{
+        font-size: 32px;
+    }
+    
+    .form_part {
+        margin-top: 28px;
+    }
+
+    .accnt_form {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+
+    .account_left {
+        width: 40%;
+    }
+
+    .account_text h3 {
+        font-size: 32px;
+    }
+
+    .account_text ul {
+        margin-top: 28px;
+    }
+    
+    .account_detls h3{
+        font-size: 32px;
+    }
+    
+    .form_part {
+        margin-top: 28px;
+    }
+
+    .accnt_form {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 1399.98px) {
+
+    .account_left {
+        width: 25%;
+    }
+
+    .account_text h3 {
+        font-size: 32px;
+    }
+
+    .account_text ul {
+        margin-top: 28px;
+    }
+
+    .account_right {
+        width: 75%;
+    }
+
+    .form_flex {
+        gap: 15px;
+    }
+
+    .account_detls h3{
+        font-size: 32px;
+    }
+    
+    .form_part {
+        margin-top: 28px;
+    }
+
+    .accnt_form {
+        width: 48%;
+    }
+}

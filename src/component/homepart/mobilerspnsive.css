@@ -1,0 +1,1185 @@
+@media (min-width: 350px) and (max-width: 575.98px) {
+  .top-icon {
+    display: none;
+  }
+
+  .menubar {
+    padding: 0 30px;
+  }
+
+  .active_menu {
+    padding: 20px;
+}
+
+  .nav_menu {
+    position: relative;
+  }
+
+  .top-right {
+    width: 100% !important;
+    justify-content: center;
+  }
+
+  .search-box {
+    width: 100px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .search-box input {
+    display: none;
+  }
+
+  .search-icon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background: transparent;
+    color: var(--black-color);
+    width: 30px;
+  }
+
+  .srch_home_icon {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 8px;
+  }
+
+  .navbar-toggler {
+    outline: none !important;
+    border: none !important;
+    position: absolute;
+    top: -8px;
+    right: -140%;
+  }
+
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none !important;
+  }
+
+  .menu-list {
+    position: absolute;
+    top: 40px;
+    right: -260px;
+    width: 180px;
+    background: var(--white-color);
+    padding: 8px 12px;
+    box-shadow: 5px 0 5px 5px;
+    z-index: 999;
+    border-radius: 10px;
+  }
+
+  .shopping-element {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+  }
+
+  /* ===================hero part start ===================== */
+
+  .hero-part {
+    padding: 0 30px;
+  }
+
+  .first-banner {
+    width: 100%;
+    height: 400px !important;
+    object-fit: contain;
+    z-index: 888;
+  }
+
+  .second-banner {
+    display: none;
+  }
+
+  .banner-carousel {
+    height: 400px !important;
+  }
+
+  .carousel-control-prev {
+    top: 180px !important;
+  }
+
+  .carousel-control-next {
+    top: 180px !important;
+  }
+
+  .bnr_img {
+    width: 518px !important;
+    height: 400px;
+  }
+
+  /* ======================category part =================== */
+  .category-part {
+    margin-bottom: 0px;
+    padding: 0 30px;
+  }
+
+  .category-item {
+    flex-wrap: wrap;
+  }
+
+  .items {
+    width: 120px;
+    margin-bottom: 50px;
+  }
+
+  .items p {
+    padding-top: 8px;
+    font-size: 16px;
+  }
+
+  /* ============new arrivals part================ */
+  .arrivals-part {
+    margin: 30px 0;
+    padding: 0 30px;
+  }
+
+  .arraivals-items {
+    flex-wrap: wrap;
+  }
+
+  /* ==================flash sale part============== */
+  .flash-part {
+    padding: 0 30px;
+    margin-top: 80px;
+  }
+
+  .count-time {
+    display: none;
+  }
+
+  .flash-text h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--black-color);
+  }
+
+
+  .flash-sec-part {
+    margin-left: 30px;
+  }
+
+  /* =================company part====================== */
+  .company-part {
+    padding: 0 30px;
+    margin-top: -80px;
+    margin-bottom: 80px;
+  }
+
+  .company-item {
+    flex-wrap: wrap;
+  }
+
+  /* =====================quality part start =================== */
+  .quality-part {
+    margin-bottom: 80px;
+    padding: 0 30px;
+  }
+
+  .quality-img .quality_img {
+    width: 100% !important;
+    height: 300px !important;
+  }
+
+  /* =====================collection part start =================== */
+  .collection-part {
+    margin-bottom: 80px;
+    padding: 0 30px;
+  }
+
+  .item-1 {
+    display: none;
+  }
+
+  .item-head {
+    width: 100%;
+  }
+
+  .item-2 {
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-left: 10%;
+  }
+  /* =====================product part start =================== */
+  .top-product {
+    padding: 0 30px;
+    margin-bottom: 80px;
+  }
+
+  .all-prdct {
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .prdct-item {
+    padding: 32px;
+    border-radius: 25px;
+    border: 2px solid var(--border-color);
+    width: 100%;
+    height: 600px;
+  }
+
+  .top_img {
+    width: 100% !important;
+    height: 300px !important;
+  }
+
+  /* =====================newsletter part start =================== */
+  .newsletter {
+    padding: 75px 30px;
+  }
+
+  .news-element {
+    display: block;
+  }
+
+  .news-text {
+    width: 100%;
+  }
+
+  .text-part h3 {
+    font-size: 26px;
+  }
+
+  .text-part p {
+    font-size: 16px;
+  }
+
+  .news-input {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  /* =====================footer part start =================== */
+  .footer-part {
+    padding: 73px 30px 0 30px;
+  }
+
+  .logo-part {
+    width: 100%;
+  }
+
+  .logo-name p {
+    padding-right: 0;
+    width: 75%;
+  }
+
+  .footer-items {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    flex-wrap: wrap;
+  }
+
+  .company-items {
+    width: 100%;
+    margin-top: -60px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .top-icon {
+    display: none;
+  }
+
+  .nav_menu {
+    position: relative;
+  }
+  
+  .active_menu {
+    padding: 20px 30px;
+}
+
+  .top-right {
+    width: 100% !important;       
+    justify-content: center;
+  }
+
+  .search-box {
+    width: 100px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .search-box input {
+    display: none;
+  }
+
+  .search-icon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: transparent;
+    color: var(--black-color);
+    width: 30px;
+  }
+
+  .srch_home_icon {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 8px;
+  }
+
+  .navbar-toggler {
+    outline: none !important;
+    border: none !important;
+    position: absolute;
+    top: -8px;
+    right: -294px;
+  }
+
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none !important;
+  }
+
+  .menu-list {
+    position: absolute;
+    top: 40px;
+    right: -260px;
+    width: 180px;
+    background: var(--white-color);
+    padding: 8px 12px;
+    box-shadow: 5px 0 5px 5px;
+    z-index: 999;
+    border-radius: 10px;
+  }
+
+  .shopping-element {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+  }
+
+  /* ===================hero part start ===================== */
+
+  .first-banner {
+    width: 100%;
+    height: 400px !important;
+    object-fit: contain;
+    z-index: 888;
+  }
+
+  .second-banner {
+    display: none;
+  }
+
+  .banner-carousel {
+    height: 400px !important;
+  }
+
+  .carousel-control-prev {
+    top: 180px !important;
+  }
+
+  .carousel-control-next {
+    top: 180px !important;
+  }
+
+  .bnr_img {
+    width: 600px !important;
+    height: 400px;
+  }
+
+  /* ======================category part =================== */
+
+  .category-item {
+    flex-wrap: wrap;
+  }
+
+  .items {
+    width: 120px;
+    margin-bottom: 50px;
+  }
+
+  .items p {
+    padding-top: 8px;
+    font-size: 16px;
+  }
+
+  /* ============new arrivals part================ */
+  .arrivals-part {
+    margin: 30px 0;
+  }
+
+  .arraivals-items {
+    flex-wrap: wrap;
+  }
+
+  /* ==================flash sale part============== */
+
+  .count-time {
+    display: none;
+  }
+
+  .flash-text h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--black-color);
+  }
+
+  .flash-sec-part {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+
+  .flash-sec-part {
+    margin-left: 30px;
+  }
+
+  /* =================company part====================== */
+  .company-part {
+    margin-top: -80px;
+    margin-bottom: 80px;
+  }
+
+  .company-item {
+    flex-wrap: wrap;
+  }
+
+  /* =====================quality part start =================== */
+  .quality-part {
+    margin-bottom: 80px;
+  }
+
+  .quality-img .quality_img {
+    width: 100% !important;
+    height: 300px !important;
+  }
+
+  /* =====================collection part start =================== */
+  .collection-part {
+    margin-bottom: 80px;
+  }
+
+  .item-1 {
+    display: none;
+  }
+
+  .item-head {
+    width: 100%;
+  }
+
+  .item-2 {
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-left: 15%;
+  }
+  /* =====================product part start =================== */
+  .top-product {
+    margin-bottom: 80px;
+  }
+
+  .all-prdct {
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .prdct-item {
+    border-radius: 25px;
+    border: 2px solid var(--border-color);
+    width: 100%;
+    height: 600px;
+  }
+
+  .top_img {
+    width: 100% !important;
+    height: 300px !important;
+  }
+
+  /* =====================newsletter part start =================== */
+  .newsletter {
+    padding: 75px 0;
+  }
+
+  .news-element {
+    display: block;
+  }
+
+  .news-text {
+    width: 100%;
+  }
+
+  .text-part h3 {
+    font-size: 26px;
+  }
+
+  .text-part p {
+    font-size: 16px;
+  }
+
+  .news-input {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  /* =====================footer part start =================== */
+  .footer-part {
+    padding-top: 73px;
+  }
+
+  .logo-part {
+    width: 100%;
+  }
+
+  .logo-name p {
+    padding-right: 0;
+    width: 75%;
+  }
+
+  .footer-items {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    flex-wrap: wrap;
+  }
+
+  .company-items {
+    width: 100%;
+    margin-top: -60px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 991.98px) {
+  .active_menu {
+    padding: 20px 110px !important;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .top-icon {
+    display: none;
+  }
+
+  .active_menu {
+    padding: 20px 40px;
+}
+
+.active_menu .search-box {
+  margin-right: 100px !important;
+}
+
+  .nav_menu {
+    position: relative;
+    right: 0;
+  }
+
+  .top-right {
+    width: 100% !important;
+    justify-content: center;
+  }
+
+  .search-box {
+    display: flex;
+    width: 280px;
+    background: var(--searchbox-color);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-left: -50px !important;
+  }
+
+  .search-box input {
+    background: transparent;
+    outline: none;
+    padding: 12px 24px;
+    border: none;
+    width: 80%;
+    margin-right: 30px;
+  }
+
+  .search-icon {
+    margin-top: -10px;
+    margin-left: 10px;
+    width: 20%;
+  }
+
+  .srch_home_icon {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 8px;
+  }
+
+  .navbar-toggler {
+    outline: none !important;
+    border: none !important;
+    position: absolute;
+    top: -8px;
+    right: -380px;
+  }
+
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none !important;
+  }
+
+  .menu-list {
+    position: absolute;
+    top: 40px;
+    right: -380px;
+    width: 180px;
+    background: var(--white-color);
+    padding: 8px 12px;
+    box-shadow: 5px 0 5px 5px;
+    z-index: 999;
+    border-radius: 10px;
+  }
+
+  .shopping-element {
+    width: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  /* ===================hero part start ===================== */
+
+  .first-banner {
+    width: 100%;
+    height: 400px !important;
+    object-fit: contain;
+    z-index: 888;
+  }
+
+  .second-banner {
+    display: none;
+  }
+
+  .banner-carousel {
+    height: 400px !important;
+  }
+
+  .carousel-control-prev {
+    top: 180px !important;
+  }
+
+  .carousel-control-next {
+    top: 180px !important;
+  }
+
+  .bnr_img {
+    width: 720px !important;
+    height: 400px;
+  }
+
+  /* ======================category part =================== */
+
+  .category-item {
+    flex-wrap: wrap;
+  }
+
+  .items {
+    width: 120px;
+    margin-bottom: 50px;
+  }
+
+  .items p {
+    padding-top: 8px;
+    font-size: 16px;
+  }
+
+  /* ============new arrivals part================ */
+  .arrivals-part {
+    margin: 30px 0;
+  }
+
+  .arraivals-items {
+    flex-wrap: wrap;
+  }
+
+  /* ==================flash sale part============== */
+
+  .count-time {
+    display: none;
+  }
+
+  .flash-text h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--black-color);
+  }
+
+  .flash-sec-part {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+
+  .flash-sec-part {
+    margin-left: 0;
+    gap: 25px;
+  }
+
+  .sec-items {
+    width: 350px;
+  }
+
+  .flas_img {
+    width: 400px !important;
+    height: 350px !important;
+  }
+
+  .prgrsbr {
+    margin-top: 20px !important;
+  }
+
+  /* =================company part====================== */
+  .company-part {
+    margin-top: -80px;
+    margin-bottom: 80px;
+  }
+
+  .company-item {
+    flex-wrap: wrap;
+  }
+
+  /* =====================quality part start =================== */
+  .quality-part {
+    margin-bottom: 80px;
+  }
+
+  .quality-img .quality_img {
+    width: 100% !important;
+    height: 300px !important;
+  }
+
+  /* =====================collection part start =================== */
+  .collection-part {
+    margin-bottom: 80px;
+  }
+
+  .item-1 {
+    display: none;
+  }
+
+  .item-head {
+    width: 100%;
+  }
+
+  .item-2 {
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-left: 0;
+  }
+
+  .item-details {
+    width: 336px;
+  }
+  /* =====================product part start =================== */
+  .top-product {
+    margin-bottom: 80px;
+  }
+
+  .all-prdct {
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .prdct-item {
+    width: 45%;
+  }
+
+  .top_img {
+    width: 100% !important;
+    height: 270px !important;
+  }
+
+  /* =====================newsletter part start =================== */
+  .newsletter {
+    padding: 75px 0;
+  }
+
+  .news-element {
+    display: block;
+  }
+
+  .news-text {
+    width: 100%;
+  }
+
+  .text-part h3 {
+    font-size: 26px;
+  }
+
+  .text-part p {
+    font-size: 16px;
+  }
+
+  .news-input {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  /* =====================footer part start =================== */
+  .footer-part {
+    padding-top: 73px;
+  }
+
+  .logo-part {
+    width: 100%;
+  }
+
+  .logo-name p {
+    padding-right: 0;
+    width: 75%;
+  }
+
+  .footer-items {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    flex-wrap: wrap;
+  }
+
+  .company-items {
+    width: 20%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1299.98px) {
+  .prjt-name h2 {
+    font-size: 28px;
+  }
+
+  .all-menu {
+    width: 40%;
+  }
+
+  .active_menu {
+    padding: 20px 30px !important;
+}
+
+  .menu-list a {
+    font-size: 16px;
+  }
+
+  .search-box {
+    width: 280px;
+  }
+
+  .search-box input {
+    background: transparent;
+    outline: none;
+    padding: 12px 24px;
+    border: none;
+    width: 80%;
+  }
+
+  .search-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--red-color);
+    width: 20%;
+    color: var(--white-color);
+    cursor: pointer;
+  }
+
+  /* ================banner part================ */
+  .bnr_img {
+    width: 644px !important;
+    height: 644px !important;
+  }
+
+  .pc-gaming p {
+    font-size: 18px;
+  }
+
+  .camera p {
+    font-size: 18px;
+  }
+
+  /* ==============category part=============== */
+  .items p {
+    padding-top: 10px;
+    font-size: 18px;
+  }
+
+  /* =====================new arrivals part============== */
+  .arraivals-items {
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+
+  .items-list {
+    width: 450px;
+  }
+
+  .item-tag p {
+    font-size: 16px;
+  }
+
+  .item-text h4 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .item-text h3 {
+    font-size: 20px;
+  }
+
+  .rating p {
+    font-size: 16px;
+  }
+
+  /* =====================flash part start =================== */
+  .sec-items {
+    width: 425px;
+    height: 611px;
+    border: 2px solid var(--border-color);
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .flas_img {
+    width: 100% !important;
+    height: 50% !important;
+  }
+
+  .available-sold {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  /* =====================compnay part start =================== */
+  .company-item h3 {
+    font-size: 40px;
+  }
+
+  /* =====================quality part start =================== */
+
+  .quality-img {
+    width: 100% !important;
+  }
+
+  /* =====================collection part start =================== */
+  .item-1 {
+    display: none;
+  }
+
+  .item-head {
+    width: 100%;
+  }
+
+  .fetured_img {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  /* =====================product part start =================== */
+  .all-prdct {
+    flex-wrap: wrap;
+  }
+
+  .prdct-item {
+    width: 32%;
+  }
+
+  .top_img {
+    width: 100% !important;
+  }
+
+  /* =====================newsletter part start =================== */
+  .text-part h3 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1499.98px) {
+  .prjt-name h2 {
+    font-size: 28px;
+  }
+
+  .all-menu {
+    width: 40%;
+  }
+
+  .active_menu {
+    padding: 20px 100px !important;
+}
+
+  .menu-list a {
+    font-size: 16px;
+  }
+
+  .search-box {
+    width: 280px;
+  }
+
+  .search-box input {
+    background: transparent;
+    outline: none;
+    padding: 12px 24px;
+    border: none;
+    width: 80%;
+  }
+
+  .search-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--red-color);
+    width: 20%;
+    color: var(--white-color);
+    cursor: pointer;
+  }
+
+  /* ================banner part================ */
+  .bnr_img {
+    width: 100% !important;
+    height: 644px !important;
+  }
+
+  .pc-gaming p {
+    font-size: 18px;
+  }
+
+  .camera p {
+    font-size: 18px;
+  }
+
+  /* ==============category part=============== */
+  .items p {
+    padding-top: 10px;
+    font-size: 18px;
+  }
+
+  /* =====================new arrivals part============== */
+  .arraivals-items {
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+
+  .items-list {
+    width: 450px;
+  }
+
+  .item-tag p {
+    font-size: 16px;
+  }
+
+  .item-text h4 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .item-text h3 {
+    font-size: 20px;
+  }
+
+  .rating p {
+    font-size: 16px;
+  }
+
+  /* =====================flash part start =================== */
+  .flash-text h3{
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--black-color);
+}
+
+  .sec-items {
+    width: 330px;
+    height: 510px;
+    border: 2px solid var(--border-color);
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .flas_img {
+    width: 100% !important;
+    height: 50% !important;
+  }
+
+  .available-sold {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  /* =====================compnay part start =================== */
+  .company-item h3 {
+    font-size: 40px;
+  }
+
+  /* =====================quality part start =================== */
+
+  .quality-img {
+    width: 100% !important;
+  }
+
+  /* =====================collection part start =================== */
+  .item-1 {
+    display: none;
+  }
+
+  .item-head {
+    width: 100%;
+  }
+
+  .fetured_img {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  /* =====================product part start =================== */
+  .all-prdct {
+    flex-wrap: wrap;
+  }
+
+  .prdct-item {
+    width: 32%;
+  }
+
+  .top_img {
+    width: 100% !important;
+  }
+
+  /* =====================newsletter part start =================== */
+  .text-part h3 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 1500px) and (max-width: 1699.98px) {
+  .active_menu {
+    padding: 20px 100px !important;
+}
+}
+
+@media (min-width: 1700px) and (max-width: 1899.98px) {
+  .active_menu {
+    padding: 20px 240px !important;
+}
+}

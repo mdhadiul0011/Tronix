@@ -1,0 +1,97 @@
+.my_accounts{
+    border: 2px solid var(--border-color);
+    border-radius: 25px;
+    width: 100%;
+    padding: 30px 40px;
+    margin-bottom: 80px;
+    display: flex;
+    gap: 60px;
+}
+
+.account_left {
+    width: 28%;
+    border-right: 2px solid var(--border-color);
+}
+
+.account_text h3 {
+    font-size: 38px;
+    font-weight: 700;
+    color: var(--black-color);
+}
+
+.account_text ul {
+    margin-top: 48px;
+}
+
+.account_text ul li {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--black-color);
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: all .4s ease;
+}
+
+.account_text ul li:hover {
+    color: var(--red-color);
+    margin-left: 3px;
+}
+
+.account_right {
+    width: 72%;
+}
+
+.account_detls h3{
+    font-size: 38px;
+    font-weight: 700;
+    color: var(--black-color);
+}
+
+.form_part {
+    margin-top: 48px;
+}
+
+.form_flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.accnt_form {
+    width: 48%;
+}
+
+.accnt_form label {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--black-color);
+    display: block;
+    margin-bottom: 6px;
+}
+
+.accnt_form input {
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 12px 15px;
+    font-size: 18px;
+    color: var(--black-color);
+    font-weight: 400;
+    width: 100%;
+}
+
+.form_part .form_btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.form_part .form_btn button {
+    padding: 14px 30px;
+    background: var(--red-color);
+    border-radius: 12px;
+    color: var(--white-color);
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}

@@ -1,0 +1,124 @@
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .check-head h3 {
+        font-size: 36px !important;
+      }
+    
+      .check-checkout {
+        width: 100% !important;
+      }
+    
+      .carts::after {
+        width: 140px !important;
+        left: 185px !important;
+      }
+
+      .checkout-all-part {
+        display: block !important;
+    }
+
+    .check-left {
+        width: 100%;
+    }
+    
+    .check-right {
+        width: 100%;
+    }
+
+    .checkout-right-part {
+        padding-left: 0;
+    }
+    
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    .check-head h3 {
+        font-size: 36px !important;
+      }
+    
+      .check-checkout {
+        width: 73% !important;
+      }
+    
+      .carts::after {
+        width: 140px !important;
+        left: 185px !important;
+      }
+
+      .checkout-all-part {
+        display: block !important;
+    }
+
+    .check-left {
+        width: 100%;
+    }
+    
+    .check-right {
+        width: 100%;
+    }
+
+    .checkout-right-part {
+        padding-left: 0;
+    }
+  }
+
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .check-head h3 {
+        font-size: 36px !important;
+      }
+    
+      .check-checkout {
+        width: 55% !important;
+      }
+    
+      .carts::after {
+        width: 140px !important;
+        left: 185px !important;
+      }
+
+      .checkout-all-part {
+        display: flex !important;
+    }
+
+    .check-left {
+        width: 55%;
+    }
+    
+    .check-right {
+        width: 45%;
+    }
+
+    .checkout-right-part {
+        padding-left: 30px;
+    }
+  }
+
+@media screen and (min-width: 1200px) and (max-width: 1399.98px) {
+    .check-head h3 {
+        font-size: 36px !important;
+      }
+    
+      .check-checkout {
+        width: 47% !important;
+      }
+    
+      .carts::after {
+        width: 140px !important;
+        left: 185px !important;
+      }
+
+      .checkout-all-part {
+        display: flex !important;
+    }
+
+    .check-left {
+        width: 55%;
+    }
+    
+    .check-right {
+        width: 45%;
+    }
+
+    .checkout-right-part {
+        padding-left: 30px;
+    }
+  }
